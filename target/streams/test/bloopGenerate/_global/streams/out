@@ -1,0 +1,4 @@
+[debug] [exam_project-test] Classpath dependencies List()
+[debug] [exam_project-test] Dependencies from configurations List(exam_project)
+[debug] Bloop wrote the configuration of project 'exam_project-test' to 'C:\Users\hp\AppData\Local\Temp\exam_project\.bloop\exam_project-test.json'
+[success] Generated .bloop\exam_project-test.json
